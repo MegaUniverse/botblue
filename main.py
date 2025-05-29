@@ -4,7 +4,7 @@ import time
 # === CONFIGURAÇÕES ===
 HANDLE = 'themegamac.bsky.social'
 APP_PASSWORD = 'kot5-k2yh-qd46-lwut'
-PROFILE_URL = 'https://bsky.app/profile/cellbitos.bsky.social'
+PROFILE_URL = 'https://bsky.app/profile/chicobarney.bsky.social'
 MAX_TO_FOLLOW = 100000
 
 # Extrai o handle da URL
