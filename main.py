@@ -4,7 +4,7 @@ import time
 # === CONFIGURAÇÕES ===
 HANDLE = 'themegamac.bsky.social'
 APP_PASSWORD = 'kot5-k2yh-qd46-lwut'
-PROFILE_URL = 'https://bsky.app/profile/btcbreakdown.com'
+PROFILE_URL = 'https://bsky.app/profile/camarotedacpi.bsky.social'
 MAX_TO_FOLLOW = 100000
 
 # Extrai o handle da URL
@@ -69,3 +69,4 @@ try:
 
 except Exception as e:
     print(f'❌ Erro ao buscar seguidores de {TARGET_HANDLE}: {e}')
+
